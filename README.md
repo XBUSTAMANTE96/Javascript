@@ -9,7 +9,9 @@
 <h3>Indice</H3>
 
 <h1>Datos</h1>
-<p>Los datos son entradas de caracteres(letras,numeros o simbolos) que tienes que especificar por categoria que van a ser ingresados, para que js pueda entender que tipo de dato vas a querer que el manipule, por ejemplo: </p>
+<p>Los datos son entradas de caracteres(letras,numeros o simbolos) que tienes que especificar por categoria que van a ser ingresados, para que js pueda entender que tipo de dato vas a querer que el manipule, y estan divididos en 2 tipos </p>
+<img src="https://www.cursosgis.com/wp-content/uploads/javascript-data-types-primitive-and-non-primitive.png" width='800'>
+<h1>Datos Primitivos</h1>
 <dt><h3>Boolean:</h3> 
   <p>Con este valor tu vas a poder ingresar dos entradas de texto uno lo va a tomar como verdadero y el otro como falso.Puede tener uno de dos valores: true (verdadero) o false (falso). Los booleanos se utilizan para realizar decisiones lógicas en el código. En este meme de codecademy se muestra un ejemplo IF: para ingresar la primera opcion que seria si hay bugs(errores en el codigo) odio programar, ELSE, si no es la primer opcion, entonces amo programar </p></dt>
   <img src="https://global.discourse-cdn.com/codecademy/original/5X/2/b/8/1/2b81676be890f64cf54382f56794378b21409f1a.jpeg" width='250'>
