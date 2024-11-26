@@ -5,10 +5,11 @@
 
 <h2>Que es Javascript?</h2>
 <p>Javascript es un lenguaje de programacion usado mayormente para el desarrollo web, que permite crear paginas web interactivas y dinamicas. Fue creado por Netscape como un recurso dinamico para agregar funcionalidad a los sitios web, se ha convertido en uno de los lenguajes mas usados en la web hasta el dia de hoy, segun copilot el 98% de las paginas web estan desarrolladas con Javascript. </p>
+<p>Primero lo primero, ya dijimos que js te permite hacer muchas cosas para hacer mas interactiva una pagina web, como conectar otros servidores, que las paginas sean mas interactivas, agregar movimiento a recursos,entre otras cosas. Siempre y cuando tu le hables al lenguaje de programacion con los conceptos correctos, podemos hacer que javascript elimine datos,los cambie de lugar, los sume, los guarde, entre muchas cosas lo que nos lleva a nuestro primer punto </p>
 <h3>Indice</H3>
 
 <h1>Datos</h1>
-<p>Los datos son entradas de caracteres(letras,numeros o simbolos) que vas a escribir para que js pueda entender que tipo de dato vas a ingresar al codigo, por ejemplo: </p>
+<p>Los datos son entradas de caracteres(letras,numeros o simbolos) que tienes que especificar por categoria que van a ser ingresados, para que js pueda entender que tipo de dato vas a querer que el manipule, por ejemplo: </p>
 <dt><h3>Boolean:</h3> 
   <p>Con este valor tu vas a poder ingresar dos entradas de texto uno lo va a tomar como verdadero y el otro como falso.Puede tener uno de dos valores: true (verdadero) o false (falso). Los booleanos se utilizan para realizar decisiones lógicas en el código. En este meme de codecademy se muestra un ejemplo IF: para ingresar la primera opcion que seria si hay bugs(errores en el codigo) odio programar, ELSE, si no es la primer opcion, entonces amo programar </p></dt>
   <img src="https://global.discourse-cdn.com/codecademy/original/5X/2/b/8/1/2b81676be890f64cf54382f56794378b21409f1a.jpeg" width='250'>
@@ -41,10 +42,8 @@
   <p>    le indicamos a js   Number.isInteger (0) devuelve true, pero Number.isInteger(0.1) devuelve false.</p>
  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*Dso9OAkDSXp-pTDOeM5-SQ.png" width='500'>
   
-  
-  
 <h3>BigInt</h3>
-Este tipo de dato te permite representar números enteros de longitud arbitraria o si lo quieres decir mas simple( largos, largos,laargoooos). Para crear un valor BigInt, se agrega n al final de un entero. Por ejemplo, const bigInt = 1234567890123456789012345678901234567890n.para que el sistema sepa que va a ser un numerote el que vas a ingresar  
+Este tipo de dato te permite representar números enteros de longitud arbitraria o si lo quieres decir mas simple(js va a interpretar que el numero que vas a ingresar es muy largo, largo,laargoooo). Para crear un valor BigInt, se agrega n al final de un entero. Por ejemplo, const bigInt = 1234567890123456789012345678901234567890n.para que el sistema sepa que va a ser un numerote el que vas a ingresar  
 </p></dt>
 <dt><h3>Real:</h3> <p>Puede contener valores decimales además de enteros.</p> </dt>
 <dt><h3>String:</h3><p> Un tipo de dato primitivo en JavaScript.</p> </dt>
