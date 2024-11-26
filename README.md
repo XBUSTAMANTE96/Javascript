@@ -63,6 +63,7 @@ Este tipo de dato te permite representar números enteros de longitud arbitraria
 <li>Desarrollo de Juegos: En juegos que requieren cálculos precisos con números grandes, como juegos de estrategia o simulaciones, BigInt es una herramienta útil.</li>
 
 <dt><h3>Real:</h3> <p>Puede contener valores decimales además de enteros.</p> </dt>
+
 <dt><h3>String:</h3><p> Un tipo de dato primitivo en JavaScript.</p> </dt>
 <dt><h3>Number:</h3> <p>Un tipo de dato primitivo en JavaScript.</p> </dt>
 <dt><h3>Symbol:</h3> <p>Un tipo de dato primitivo en JavaScript.</p> </dt>
