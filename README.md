@@ -64,7 +64,10 @@ Este tipo de dato te permite representar números enteros de longitud arbitraria
 
 <dt><h3>Real:</h3> <p>Puede contener valores decimales además de enteros.</p> </dt>
 
-<dt><h3>String:</h3><p> Un tipo de dato primitivo en JavaScript.</p> </dt>
+
+<dt><h3>String:Un string (o cadena de caracteres)es la manera en que vas a poder representar texto en JavaScript, los strings se utilizan para almacenar y manipular texto y pueden incluir letras, números, símbolos y espacios.</h3> </dt>
+
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20240119115020/JavaScript-strings.webp" width='500'>
 <dt><h3>Number:</h3> <p>Un tipo de dato primitivo en JavaScript.</p> </dt>
 <dt><h3>Symbol:</h3> <p>Un tipo de dato primitivo en JavaScript.</p> </dt>
 <dt><h3>Undefined:</h3> <p>Un tipo de dato primitivo en JavaScript.</p></dt> 
