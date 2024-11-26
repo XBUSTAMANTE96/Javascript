@@ -5,7 +5,7 @@ JavaScript is a dynamic, lightweight programming language primarily used in web 
 
 
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVyY3UwYTRnZGwzdHFpeHR6Yndkbnpob2g5ZjBsdHIyMjlvOWp4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width='100'>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVyY3UwYTRnZGwzdHFpeHR6Yndkbnpob2g5ZjBsdHIyMjlvOWp4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width='250'>
 
 Que es Javascript?
 Javascript es un lenguaje de programacion usado mayormente para el desarrollo web, que permite crear paginas web interactivas y dinamicas. Fue creado por Netscape como un recurso dinamico para agregar funcionalidad a los sitios web, se ha convertido en uno de los lenguajes mas usados en la web hasta el dia de hoy, segun copilot el 98% de las paginas web estan desarrolladas con Javascript. 
@@ -22,15 +22,10 @@ Javascript es un lenguaje de programacion usado mayormente para el desarrollo we
 <dt>Symbol: Un tipo de dato primitivo en JavaScript. </dt>
 <dt>Undefined: Un tipo de dato primitivo en JavaScript.</dt> 
 <dt>Null: Un tipo de dato primitivo en JavaScript. </dt>
-<dt>Bigint: Un tipo de dato primitivo en JavaS</dt>
+<dt>Bigint: Un tipo de dato primitivo en JavaScript</dt>
 
 
 
-NUMBER
-STRING
-BOOLEAN
-NULL
-UNDEFINED
 
 
 
