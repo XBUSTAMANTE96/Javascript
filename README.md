@@ -1,3 +1,4 @@
+![banner](1715823797200_7001-javascript-mpanel-portada-dfH.jpg)
 # Guia de Javascript for dummies, como tu y como yo
 <h1>Introduccion</h1>
 
