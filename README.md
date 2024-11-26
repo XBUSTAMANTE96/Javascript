@@ -1,9 +1,5 @@
 # Javascript
 
-What is JavaScript?
-JavaScript is a dynamic, lightweight programming language primarily used in web development to create interactive and dynamic web pages. Originally developed by Netscape as a means to add dynamic functionality to websites, it has evolved to become one of the most widely used languages on the web today.According to copilot 98% of the websites are developed with Javascript. 
-
-
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVyY3UwYTRnZGwzdHFpeHR6Yndkbnpob2g5ZjBsdHIyMjlvOWp4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width='250'>
 
@@ -27,7 +23,20 @@ Javascript es un lenguaje de programacion usado mayormente para el desarrollo we
 <dt><h3>Undefined:</h3> <p>Un tipo de dato primitivo en JavaScript.</p></dt> 
 <dt><h3>Null:</h3> <p>Un tipo de dato primitivo en JavaScript. </p></dt>
 <dt><h3>Bigint:</h3> <p>Un tipo de dato primitivo en JavaScript</p></dt>
+    
+<p>En 2024, BigInt sigue siendo una herramienta valiosa en JavaScript para manejar números enteros extremadamente grandes con precisión. Aquí te dejo algunos usos destacados de BigInt en este año:</p>
 
+<li>Cálculos Financieros: En aplicaciones financieras donde la precisión es crucial, BigInt se utiliza para realizar cálculos exactos sin riesgo de pérdida de precisión3.</li>
+
+<li>Criptografía: BigInt es esencial en la implementación de algoritmos criptográficos que requieren operaciones con números enteros muy grandes3.</li>
+
+<li>Simulaciones y Modelos Matemáticos: En simulaciones científicas y modelos matemáticos que involucran números grandes, BigInt permite realizar cálculos precisos y eficientes3.</li>
+
+<li>Gestión de Identificadores Únicos: En sistemas que requieren identificadores únicos y grandes, como bases de datos distribuidas, BigInt se utiliza para generar y manejar estos identificadores.</li>
+
+<li>Desarrollo de Juegos: En juegos que requieren cálculos precisos con números grandes, como juegos de estrategia o simulaciones, BigInt es una herramienta útil.</li>
+
+<p>BigInt ha mejorado la capacidad de JavaScript para manejar números grandes de manera eficiente y precisa, lo que lo hace indispensable para ciertos tipos de aplicaciones y proyectos en 2024.</p>
 
 
 
