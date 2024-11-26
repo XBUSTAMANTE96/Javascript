@@ -5,7 +5,7 @@
 
 <h2>Que es Javascript?</h2>
 <p>Javascript es un lenguaje de programacion usado mayormente para el desarrollo web, que permite crear paginas web interactivas y dinamicas. Fue creado por Netscape como un recurso dinamico para agregar funcionalidad a los sitios web, se ha convertido en uno de los lenguajes mas usados en la web hasta el dia de hoy, segun copilot el 98% de las paginas web estan desarrolladas con Javascript. </p>
-<p>Primero lo primero, ya dijimos que js te permite hacer muchas cosas para hacer mas interactiva una pagina web, como conectar otros servidores, que las paginas sean mas interactivas, agregar movimiento a recursos,entre otras cosas. Siempre y cuando tu le hables al lenguaje de programacion con los conceptos correctos, podemos hacer que javascript elimine datos,los cambie de lugar, los sume, los guarde, entre muchas cosas lo que nos lleva a nuestro primer punto </p>
+<p>Primero lo primero, ya dijimos que js te permite hacer muchas cosas para hacer mas interactiva una pagina web, como conectar otros servidores, que las paginas sean mas interactivas, agregar movimiento a recursos,entre otras cosas. Siempre y cuando tu le hables al lenguaje de programacion con los conceptos correctos, podemos hacer que javascript elimine datos,los cambie de lugar, los sume, los guarde, entre muchas cosas.Lo que nos lleva a nuestro primer punto </p>
 <h3>Indice</H3>
 
 <h1>Datos</h1>
