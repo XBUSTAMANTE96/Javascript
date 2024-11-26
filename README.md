@@ -47,12 +47,6 @@
 Este tipo de dato te permite representar números enteros de longitud arbitraria o si lo quieres decir mas simple(js va a interpretar que el numero que vas a ingresar es muy largo, largo,laargoooo). Para crear un valor BigInt, se agrega n al final de un entero. Por ejemplo, const bigInt = 1234567890123456789012345678901234567890n.para que el sistema sepa que va a ser un numerote el que vas a ingresar  
 </p></dt>
 <p>Y si eres como yo y te preguntas antes de saber el resto del lenguaje, para que querria yo utilizar un numero tan gigante si todo puede ser simple con alguna herremienta que ya este en 2024, bueno pues segun copilot( y yo siempre le creo a copilot), en 2024 BigInt sigue siendo una herramienta valiosa en JavaScript para manejar números enteros extremadamente grandes con precisión. Aquí te dejo algunos usos destacados de BigInt en este año:</p>
-<p>BigInt ha mejorado la capacidad de JavaScript para manejar números grandes de manera eficiente y precisa, lo que lo hace indispensable para ciertos tipos de aplicaciones y proyectos en 2024.</p>
-
-<p>Aun asi, existen librerias que ya hacen uso de bigint con una combinacion de metodos para poder utilizar el bigint BigInteger.js. Una libreria que nos ayudara mas tarde  </p>
-<img src="https://uploads.dailydot.com/834/8b/468b7dd539258655.jpg?q=65&auto=format&w=1600&ar=2:1&fit=crop" width='500'>
-
-
 <li>Cálculos Financieros: En aplicaciones financieras donde la precisión es crucial, BigInt se utiliza para realizar cálculos exactos sin riesgo de pérdida de precisión3.</li>
 
 <li>Criptografía: BigInt es esencial en la implementación de algoritmos criptográficos que requieren operaciones con números enteros muy grandes3.</li>
@@ -64,6 +58,10 @@ Este tipo de dato te permite representar números enteros de longitud arbitraria
 <li>Desarrollo de Juegos: En juegos que requieren cálculos precisos con números grandes, como juegos de estrategia o simulaciones, BigInt es una herramienta útil.</li>
 
 <dt><h3>Real:</h3> <p>Puede contener valores decimales además de enteros.</p> </dt>
+<p>BigInt ha mejorado la capacidad de JavaScript para manejar números grandes de manera eficiente y precisa, lo que lo hace indispensable para ciertos tipos de aplicaciones y proyectos en 2024.</p>
+
+<p>Aun asi, existen librerias que ya hacen uso de bigint con una combinacion de metodos para poder utilizar el bigint BigInteger.js. Una libreria que nos ayudara mas tarde  </p>
+<img src="https://uploads.dailydot.com/834/8b/468b7dd539258655.jpg?q=65&auto=format&w=1600&ar=2:1&fit=crop" width='500'>
 
 
 <dt><h3>String:</h3> Un string (o cadena de caracteres)es la manera en que vas a poder representar texto en JavaScript, los strings se utilizan para almacenar y manipular texto y pueden incluir letras, números, símbolos y espacios.</dt>
