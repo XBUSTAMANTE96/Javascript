@@ -69,7 +69,14 @@ Este tipo de dato te permite representar números enteros de longitud arbitraria
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240119115020/JavaScript-strings.webp" width='500'>
 
-<dt><h3>Symbol:</h3> <p>Un tipo de dato primitivo en JavaScript.</p> </dt>
+<dt><h3>Symbol:</h3> <p>Los símbolos son utilizados principalmente para crear identificadores únicos que no pueden ser accidentalmente duplicados, lo que los hace especialmente útiles para definir propiedades de objetos(que veremos mas adelante y  que no colisionen con otras propiedades.)Al utilizar Symbols, puedes evitar que las propiedades de los objetos entren en conflicto, especialmente en grandes proyectos o cuando se utilizan librerías de terceros, tambien ayudan a ocultar Propiedades: Las propiedades de los objetos definidas usando Symbols no aparecen en iteraciones normales, lo que permite ocultar ciertas propiedades cuando no son necesarias.</p>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*Z0WsWHIAGlWKG1guLz-32Q.png" width='500'>
+
+  
+  <p>
+   
+  </p>
+<p> </p></dt>
 <dt><h3>Undefined:</h3> <p>Un tipo de dato primitivo en JavaScript.</p></dt> 
 <dt><h3>Null:</h3> <p>Un tipo de dato primitivo en JavaScript. </p></dt>
 
