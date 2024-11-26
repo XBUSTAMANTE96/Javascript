@@ -1,4 +1,4 @@
-![banner](1715823797200_7001-javascript-mpanel-portada-dfH.jpg)
+![banner](https://www.aluracursos.com/blog/assets/operadores-de-comparacion-javascript/imagen01.png)
 # Guia de Javascript for dummies, como tu y como yo
 <h1>Introduccion</h1>
 
