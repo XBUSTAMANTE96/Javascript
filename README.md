@@ -104,9 +104,22 @@ Este tipo de dato te permite representar números enteros de longitud arbitraria
     <td>Intencional</td>
   </tr>
 </table>
+<H2>Ahora vamos con los compuestos o no primitivos </H2> 
+<h1>Datos Compuestos</h1>
+<h2>Objects</h2>
+<p>Un objeto en JavaScript es una colección de propiedades, donde cada propiedad es una asociación entre una clave (llamada "nombre" o "clave") y un valor. Los objetos pueden contener muchos valores de diferentes tipos y son fundamentales para la programación en JavaScript.</p>
+<p> Por ejemplo:</p>
+<p> Si tomaramos como objeto a una persona, esa persona tendria mas caracteristicas o varias propiedades:</p>
 
+<p>nombre: una cadena de texto que representa el nombre de la persona.</p>
 
+<p>edad: un número que representa la edad de la persona.</p>
 
+<p>profesion: una cadena de texto que representa la profesión de la persona.</p>
+
+<p>saludar: un método (función) que imprime un saludo en la consola.</p>
+
+<p>actualizar Edad: un método que actualiza la edad de la persona.</p>
 
 
 
