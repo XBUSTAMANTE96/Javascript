@@ -18,6 +18,7 @@
  <img src="https://codefinity-content-media-v2.s3.eu-west-1.amazonaws.com/courses/a5c23211-8dc2-4c4a-9a83-07a51e843ab6/section_1/TS_meme_10%404x.png" width='300'>
  <p>Seria un codigo muy cansado de escribir por todas las lineas que tendriamos que escribir una por una por tanto, cuando son varias las opciones que tienes que utilizar, en esos casos tienes que utilizar switch</p>
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*SiM_5c6wtpq-p7O-DvkQ4A.png" width='400'> 
+<p>o usando objetos pero eso es algo que viene mas adelante</p>
   
 <dt><h3>Fecha:</h3> 
   <p>Vas a poder ingresar un valor en el que js va a interpretar que contiene el día, el mes y el año. </p></dt>
