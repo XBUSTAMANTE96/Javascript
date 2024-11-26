@@ -53,7 +53,7 @@ Este tipo de dato te permite representar números enteros de longitud arbitraria
 <dt><h3>Null:</h3> <p>Un tipo de dato primitivo en JavaScript. </p></dt>
 <dt><h3>Bigint:</h3> <p>Un tipo de dato primitivo en JavaScript</p></dt>
     
-<p>En 2024, BigInt sigue siendo una herramienta valiosa en JavaScript para manejar números enteros extremadamente grandes con precisión. Aquí te dejo algunos usos destacados de BigInt en este año:</p>
+<p>Y si eres como yo y te preguntas antes de saber el resto del lenguaje, para que querria yo utilizar un numero tan gigante si todo puede ser simple con alguna herremienta que ya este en 2024, bueno pues segun copilot( y yo siempre le creo a copilot), en 2024 BigInt sigue siendo una herramienta valiosa en JavaScript para manejar números enteros extremadamente grandes con precisión. Aquí te dejo algunos usos destacados de BigInt en este año:</p>
 
 <li>Cálculos Financieros: En aplicaciones financieras donde la precisión es crucial, BigInt se utiliza para realizar cálculos exactos sin riesgo de pérdida de precisión3.</li>
 
