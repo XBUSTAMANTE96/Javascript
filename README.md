@@ -1,5 +1,5 @@
 # Guia de Javascript for dummies, como tu y como yo
-
+<h1>Introduccion</h1>
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVyY3UwYTRnZGwzdHFpeHR6Yndkbnpob2g5ZjBsdHIyMjlvOWp4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width='250'>
 
@@ -74,11 +74,8 @@ Este tipo de dato te permite representar números enteros de longitud arbitraria
 <dt><h3>Symbol:</h3> <p>Los símbolos son utilizados principalmente para crear identificadores únicos que no pueden ser accidentalmente duplicados, lo que los hace especialmente útiles para definir propiedades de objetos(que veremos mas adelante y  que no colisionen con otras propiedades.)Al utilizar Symbols, puedes evitar que las propiedades de los objetos entren en conflicto, especialmente en grandes proyectos o cuando se utilizan librerías de terceros, tambien ayudan a ocultar Propiedades: Las propiedades de los objetos definidas usando Symbols no aparecen en iteraciones normales, lo que permite ocultar ciertas propiedades cuando no son necesarias.</p>
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*Z0WsWHIAGlWKG1guLz-32Q.png" width='500'>
 
-  
-  <p>
-   
-  </p>
-<p> </p></dt>
+
+<h2> Especiales</h2></dt>
 <dt><h3>Undefined:</h3> <p> Tipo de dato que se usa para indicar la ausencia de un valor asignado a una variable. Es una señal de que una variable ha sido declarada pero no se le ha asignado ningún valor.Lo puedes utilizar cuando no sabes que tipo de informacion habra dentro de una variable(no te desesperes que veremos lo que es una variable) solo digamos que sabes que vas a guardar algun dato pero no sabes exactamente que tipo de dato es </p> 
 
 <img src="https://debugmode.net/wp-content/uploads/2017/03/image18.png" width='500'></dt> 
@@ -104,23 +101,29 @@ Este tipo de dato te permite representar números enteros de longitud arbitraria
     <td>Intencional</td>
   </tr>
 </table>
-<H2>Ahora vamos con los compuestos o no primitivos </H2> 
+
+<h3>Ahora vamos con los datos compuestos</h3>
+
 <h1>Datos Compuestos</h1>
 <h2>Objects</h2>
 <p>Un objeto en JavaScript es una colección de propiedades, donde cada propiedad es una asociación entre una clave (llamada "nombre" o "clave") y un valor. Los objetos pueden contener muchos valores de diferentes tipos y son fundamentales para la programación en JavaScript.</p>
 <p> Por ejemplo:</p>
 <p> Si tomaramos como objeto a una persona, esa persona tendria mas caracteristicas o varias propiedades:</p>
 
-<p>nombre: una cadena de texto que representa el nombre de la persona.</p>
+<p>Nombre: una cadena de texto que representa el nombre de la persona.</p>
 
-<p>edad: un número que representa la edad de la persona.</p>
+<p>Edad: un número que representa la edad de la persona.</p>
 
-<p>profesion: una cadena de texto que representa la profesión de la persona.</p>
+<p>Profesion: una cadena de texto que representa la profesión de la persona.</p>
 
-<p>saludar: un método (función) que imprime un saludo en la consola.</p>
+<p>Saludar: un método (función) que imprime un saludo en la consola.</p>
 
-<p>actualizar Edad: un método que actualiza la edad de la persona.</p>
+<p>Actualizar Edad: un método que actualiza la edad de la persona.</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxKRX5xfLbqU0-PZMWHttyDoefq0LDqR4G2g&s" width='500'></dt>
 
+<h2>Array</h2>
+<p>Un array es una lista, cada uno de los elementos va separados por una coma como en la siguiente imagen</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgUDv9ds-2zOCDFKDnd3-2bzekEKFEZ9TlPA&s" width='500'></dt>
 
 
 
