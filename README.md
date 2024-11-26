@@ -12,17 +12,24 @@ Javascript es un lenguaje de programacion usado mayormente para el desarrollo we
 <H2>Indice</H2>
 
 <h2> SYNTAXIS</h2>
-<dt>Boolean: Un valor que se evalúa como verdadero o falso. </dt>
-<dt>Fecha: Contiene el día, el mes y el año. </dt>
-<dt>Fecha y hora: Combina el tipo fecha y un valor que representa el tiempo transcurrido desde la medianoche. </dt>
-<dt>Entero: Representa un número que no tiene decimales. </dt>
-<dt>Real: Puede contener valores decimales además de enteros. </dt>
-<dt>String: Un tipo de dato primitivo en JavaScript. </dt>
-<dt>Number: Un tipo de dato primitivo en JavaScript. </dt>
-<dt>Symbol: Un tipo de dato primitivo en JavaScript. </dt>
-<dt>Undefined: Un tipo de dato primitivo en JavaScript.</dt> 
-<dt>Null: Un tipo de dato primitivo en JavaScript. </dt>
-<dt>Bigint: Un tipo de dato primitivo en JavaScript</dt>
+<dt><h3>Boolean:</h3> 
+  <p>Un valor que se evalúa como verdadero o falso. </p></dt>
+<dt><h3>Fecha:</h3> 
+  <p>Contiene el día, el mes y el año. </p></dt>
+<dt><h3>Fecha y hora:</h3> 
+  <p><Combina el tipo fecha y un valor que representa el tiempo transcurrido desde la medianoche. </p> </dt>
+<dt><h3>Entero:</h3> 
+  <p>Representa un número que no tiene decimales.</p> </dt>
+<dt><h3>Real:</h3> <p>Puede contener valores decimales además de enteros.</p> </dt>
+<dt><h3>String:</h3><p> Un tipo de dato primitivo en JavaScript.</p> </dt>
+<dt><h3>Number:</h3> <p>Un tipo de dato primitivo en JavaScript.</p> </dt>
+<dt><h3>Symbol:</h3> <p>Un tipo de dato primitivo en JavaScript.</p> </dt>
+<dt><h3>Undefined:</h3> <p>Un tipo de dato primitivo en JavaScript.</p></dt> 
+<dt><h3>Null:</h3> <p>Un tipo de dato primitivo en JavaScript. </p></dt>
+<dt><h3>Bigint:</h3> <p>Un tipo de dato primitivo en JavaScript</p></dt>
+
+
+
 
 
 
