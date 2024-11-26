@@ -1,15 +1,16 @@
-# Javascript
+# Guia de Javascript for dummies, como tu y como yo
 
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVyY3UwYTRnZGwzdHFpeHR6Yndkbnpob2g5ZjBsdHIyMjlvOWp4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width='250'>
 
-Que es Javascript?
-Javascript es un lenguaje de programacion usado mayormente para el desarrollo web, que permite crear paginas web interactivas y dinamicas. Fue creado por Netscape como un recurso dinamico para agregar funcionalidad a los sitios web, se ha convertido en uno de los lenguajes mas usados en la web hasta el dia de hoy, segun copilot el 98% de las paginas web estan desarrolladas con Javascript. 
-<H2>Indice</H2>
+<h2>Que es Javascript?</h2>
+<p>Javascript es un lenguaje de programacion usado mayormente para el desarrollo web, que permite crear paginas web interactivas y dinamicas. Fue creado por Netscape como un recurso dinamico para agregar funcionalidad a los sitios web, se ha convertido en uno de los lenguajes mas usados en la web hasta el dia de hoy, segun copilot el 98% de las paginas web estan desarrolladas con Javascript. </p>
+<h3>Indice</H3>
 
-<h2> SYNTAXIS</h2>
+<h1>Datos</h1>
+<p>Los datos son entradas de caracteres(letras,numeros o simbolos) que vas a escribir para que js pueda entender que tipo de dato vas a ingresar al codigo, por ejemplo: </p>
 <dt><h3>Boolean:</h3> 
-  <p>Un valor que se evalúa como verdadero o falso.Puede tener uno de dos valores: true (verdadero) o false (falso). Los booleanos se utilizan para realizar decisiones lógicas en el código. Aquí tienes un ejemplo práctico de cómo se puede usar un booleano:</p></dt>
+  <p>Con este valor tu vas a poder ingresar dos entradas de texto uno lo va a tomar como verdadero y el otro como falso.Puede tener uno de dos valores: true (verdadero) o false (falso). Los booleanos se utilizan para realizar decisiones lógicas en el código. En este meme de codecademy se muestra un ejemplo IF: para ingresar la primera opcion que seria si hay bugs(errores en el codigo) odio programar, ELSE, si no es la primer opcion, entonces amo programar </p></dt>
   <img src="https://global.discourse-cdn.com/codecademy/original/5X/2/b/8/1/2b81676be890f64cf54382f56794378b21409f1a.jpeg" width='250'>
 
 <p>Pero que pasa si hay mas de un if o entrada de datos que tienes que evaluar? supongamos que las respuestas que te de algun cliente en tu web puede tener distintas opciones, hasta un punto en el que se tienen mas de una opcion para la respuesta</p>
@@ -18,11 +19,33 @@ Javascript es un lenguaje de programacion usado mayormente para el desarrollo we
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*SiM_5c6wtpq-p7O-DvkQ4A.png" width='400'> 
   
 <dt><h3>Fecha:</h3> 
-  <p>Contiene el día, el mes y el año. </p></dt>
+  <p>Vas a poder ingresar un valor en el que js va a interpretar que contiene el día, el mes y el año. </p></dt>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*9lvHULUztfFsTPItRU2Y1Q.png" width='500'>
+  
 <dt><h3>Fecha y hora:</h3> 
-  <p><Combina el tipo fecha y un valor que representa el tiempo transcurrido desde la medianoche. </p> </dt>
+  <p>Combina el tipo fecha y un valor que representa el tiempo transcurrido desde la medianoche. </p> </dt>
+  <img src="https://phoenixnap.com/kb/wp-content/uploads/2023/12/get-full-time-and-date.png" width='500'>
+  
+  
+  
+  
 <dt><h3>Entero:</h3> 
-  <p>Representa un número que no tiene decimales.</p> </dt>
+  <p>En terminos generales podriamos decir que es un dato que representa un número que no tiene decimales,aunque aqui podemos jugar un poco con temas que escribire mas adelante.Este tema son los metodos,pero no te adelantes tanto todavia, esto es solo para darte una introduccion de lo que veremos despues,</p>
+  
+  <p>Por ejemplo:</p>
+  <p></p>Hay un tipo de metodo que se llama Number.isInteger() </p>
+  
+<p>Este método devuelve un booleano( el tipo de dato que mencionamos antes) que indica si un valor es un entero o no. </p>
+  <p>Por ejemplo, </p>
+  
+  <p>    le indicamos a js   Number.isInteger (0) devuelve true, pero Number.isInteger(0.1) devuelve false.</p>
+ <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*Dso9OAkDSXp-pTDOeM5-SQ.png" width='500'>
+  
+  
+  
+<h3>BigInt</h3>
+Este tipo de dato te permite representar números enteros de longitud arbitraria o si lo quieres decir mas simple( largos, largos,laargoooos). Para crear un valor BigInt, se agrega n al final de un entero. Por ejemplo, const bigInt = 1234567890123456789012345678901234567890n.para que el sistema sepa que va a ser un numerote el que vas a ingresar  
+</p></dt>
 <dt><h3>Real:</h3> <p>Puede contener valores decimales además de enteros.</p> </dt>
 <dt><h3>String:</h3><p> Un tipo de dato primitivo en JavaScript.</p> </dt>
 <dt><h3>Number:</h3> <p>Un tipo de dato primitivo en JavaScript.</p> </dt>
