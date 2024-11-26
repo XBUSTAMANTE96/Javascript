@@ -77,11 +77,31 @@ Este tipo de dato te permite representar números enteros de longitud arbitraria
    
   </p>
 <p> </p></dt>
-<dt><h3>Undefined:</h3> <p>Un tipo de dato primitivo en JavaScript.</p></dt> 
-<dt><h3>Null:</h3> <p>Un tipo de dato primitivo en JavaScript. </p></dt>
+<dt><h3>Undefined:</h3> <p> Tipo de dato que se usa para indicar la ausencia de un valor asignado a una variable. Es una señal de que una variable ha sido declarada pero no se le ha asignado ningún valor.Lo puedes utilizar cuando no sabes que tipo de informacion habra dentro de una variable(no te desesperes que veremos lo que es una variable) solo digamos que sabes que vas a guardar algun dato pero no sabes exactamente que tipo de dato es </p> 
+
+<img src="https://debugmode.net/wp-content/uploads/2017/03/image18.png" width='500'></dt> 
+<dt><h3>Null:</h3> <p>Es un tipo de dato primitivo que se usa para representar la ausencia intencional de cualquier objeto o valor. Es un valor especial que indica que una variable no tiene ningún valor asignado, a diferencia de undefined, que indica que una variable ha sido declarada pero no se le ha asignado un valor. </p></dt>
+<p>Aqui una comparativa de ambos datos</p>
+<img src="https://codingnomads.com/images/ef21dcae-9744-4bbe-fe90-8546f7f27700/public" width='500'></dt> 
 
 
-
+<table>
+  <tr>
+    <th>Caracteristica</th>
+    <th>Undefined</th>
+    <th>Null</th>
+  </tr>
+  <tr>
+    <td>Definicion</td>
+    <td>Variable declarada pero no inicializada</td>
+    <td>Ausencia intencional de valor</td>
+  </tr>
+  <tr>
+    <td>Asignacion</td>
+    <td>Automatica</td>
+    <td>Intencional</td>
+  </tr>
+</table>
 
 
 
